@@ -14,7 +14,7 @@ CSS3
 🎯 Purpose
 
 This project was created as part of my learning journey in front-end development to improve my skills in layout design, responsiveness, and styling
-<img width="1818" height="878" alt="Screenshot 2026-04-13 141011" src="https://github.com/user-attachments/assets/a86d0748-f25a-41bb-8451-3a8d1bdc5110" />
-<img width="1824" height="867" alt="Screenshot 2026-04-13 140948" src="https://github.com/user-attachments/assets/54fb7df1-88e7-4c52-8f35-b566e1bac8be" />
-<img width="1831" height="878" alt="Screenshot 2026-04-13 140919" src="https://github.com/user-attachments/assets/e7eadc2b-b445-4125-b35a-4a5d3809c675" />
-<img width="1833" height="872" alt="Screenshot 2026-04-13 140854" src="https://github.com/user-attachments/assets/d24b3dc3-f81c-4483-bccb-a7901b2aa563" />
+<img width="1818" height="878" alt="Screenshot 2026-04-13 141011" src="https://github.com/user-attachments/assets/7edd17b8-5a7c-4bda-b6f8-0984c38da89f" />
+<img width="1824" height="867" alt="Screenshot 2026-04-13 140948" src="https://github.com/user-attachments/assets/8cacbc93-f166-4993-9fae-d348bf8a08de" />
+<img width="1831" height="878" alt="Screenshot 2026-04-13 140919" src="https://github.com/user-attachments/assets/353e0c38-578d-480f-a169-f75f471d2846" />
+<img width="1833" height="872" alt="Screenshot 2026-04-13 140854" src="https://github.com/user-attachments/assets/369391a4-8846-4582-84df-c54870f471f9" />
